@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_6d7eb6b90625dc302342e44a82931430103ba905.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_88ae69dd1175aed7a0214abf702fe6da38a811fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_e3bfdc28b1f21a1e26a84d1e2a8d453d8cfcd0cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_b01ef2960732d0f8832ddb32994c689bce2b079f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_9fe02c8762d3c019cfbb71d8619ee436c8576241.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\glide-3.7.0_246676073838b975a1f610fced8422e4c851b107.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_bb5f292840402d866fe49cd077d0556013e5ca6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_70f9b223ab9354368444d5442b03644b5ce98051.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bde61693e4c5964638908bc79c3da93951b651cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_27cce516f1d8f722a512f462ad4b57ca88c9435e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_4e06388c104b7818f9bdf2901888ace415cafced.jar" />
+    </item>
+    <item
+        jar="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Helmi\Desktop\ANDROID_APPLICATION\WeatherApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_b7164686c02baf8a857f29fdf210c0eadca852e5.jar" />
+    </item>
+
+</items>
